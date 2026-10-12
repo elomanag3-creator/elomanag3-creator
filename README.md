@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Nikita 👋</h1>
 
 <p align="center">
-  <b>Data Scientist</b> <br>
+  I'm a <b>Data Scientist</b> <br>
   I build machine learning models that are <b>accurate, explainable and honestly evaluated</b>.
 </p>
 
