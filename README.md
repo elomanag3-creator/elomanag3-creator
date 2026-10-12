@@ -14,15 +14,6 @@
 
 ---
 
-## 🧭 About me
-
-- 🎓 Economics & Organization Management student with a focus on **machine learning, statistics and forecasting**
-- 🔬 I care about the unglamorous parts: **leakage-free validation, calibration, fairness checks and failure analysis**
-- 🏆 Active **Kaggle** competitor (classification, regression, deep learning)
-- 📫 Open to data science internships and junior roles. Reach me by email or LinkedIn.
-
----
-
 
 ## 🛠️ Tech stack
 
@@ -44,20 +35,5 @@
 
 **Machine learning:** classification · regression · time-series forecasting · NLP (TF-IDF) · anomaly detection · ensembles · hyperparameter tuning (Optuna) · cross-validation
 **Responsible ML:** SHAP explainability · probability calibration · cost-based thresholds · fairness audits · leakage tests
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elomanag3-creator&show_icons=true&hide_border=true&count_private=false" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elomanag3-creator&layout=compact&hide_border=true" alt="Top languages">
-</p>
-
----
-
-## 💡 How I work
-
-> **A good number is one you can defend.** I use time-based splits for time series, keep the test set untouched until the end, report baselines next to every model, and write down limitations next to results.
 
 <p align="center"><i>Thanks for stopping by. If something here looks interesting, let's talk.</i></p>
